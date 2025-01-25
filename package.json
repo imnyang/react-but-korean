@@ -1,13 +1,13 @@
 {
-    "name": "react-but-thai",
-    "description": "React but it's Thai",
+    "name": "react-but-korean",
+    "description": "React but it's Korean",
     "version": "17.0.1",
     "main": "index.js",
     "license": "MIT",
     "scripts": {
         "tsc": "tsc && tsc -p tsconfig.react.cjs.json && tsc -p tsconfig.react.umd.json && tsc -p tsconfig.react-dom.cjs.json && tsc -p tsconfig.react-dom.umd.json",
-        "publish:stable": "cd react && yarn publish && cd ../react-dom && yarn publish",
-        "publish:experimental": "cd react && yarn publish --tag experimental && cd ../react-dom && yarn publish --tag experimental"
+        "publish:stable": "cd react && bun publish && cd ../react-dom && bun publish",
+        "publish:experimental": "cd react && bun publish --tag experimental && cd ../react-dom && bun publish --tag experimental"
     },
     "devDependencies": {
         "typescript": "^4.0.5"

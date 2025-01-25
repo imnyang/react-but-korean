@@ -1,5 +1,5 @@
 {
-    "name": "react-dom-but-thai",
+    "name": "react-dom-but-korean",
     "description": "รูปแบบวัตถุเอกสารตอบสนอง เป็นไลบรารี JavaScript สำหรับสร้างส่วนต่อประสานผู้ใช้",
     "version": "17.0.1",
     "main": "index.js",
@@ -13,10 +13,10 @@
         "cjs/",
         "umd/"
     ],
-    "homepage": "https://github.com/SaltyAom/react-but-thai",
+    "homepage": "https://github.com/SaltyAom/react-but-korean",
     "repository": {
         "type": "git",
-        "url": "https://github.com/SaltyAom/react-but-thai.git"
+        "url": "https://github.com/SaltyAom/react-but-korean.git"
     },
     "engines": {
         "node": ">=0.10.0"

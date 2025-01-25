@@ -1,6 +1,6 @@
 {
-    "name": "react-but-thai",
-    "description": "ตอบสนอง เป็นไลบรารี JavaScript สำหรับสร้างส่วนต่อประสานผู้ใช้",
+    "name": "react-but-korean",
+    "description": "",
     "version": "17.0.1",
     "main": "index.js",
     "license": "MIT",
@@ -13,10 +13,10 @@
         "cjs/",
         "umd/"
     ],
-    "homepage": "https://github.com/SaltyAom/react-but-thai",
+    "homepage": "https://github.com/SaltyAom/react-but-korean",
     "repository": {
         "type": "git",
-        "url": "https://github.com/SaltyAom/react-but-thai.git"
+        "url": "https://github.com/SaltyAom/react-but-korean.git"
     },
     "engines": {
         "node": ">=0.10.0"
