@@ -1,7 +1,7 @@
 {
     "name": "react-but-korean",
     "description": "React but it's Korean",
-    "version": "17.0.1",
+    "version": "17.0.2",
     "main": "index.js",
     "license": "MIT",
     "scripts": {

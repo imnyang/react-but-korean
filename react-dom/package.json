@@ -1,7 +1,7 @@
 {
     "name": "react-dom-but-korean",
-    "description": "รูปแบบวัตถุเอกสารตอบสนอง เป็นไลบรารี JavaScript สำหรับสร้างส่วนต่อประสานผู้ใช้",
-    "version": "17.0.1",
+    "description": "반응형 꾸러미를 위해 만들어진 문서 객체 모델.",
+    "version": "17.0.2",
     "main": "index.js",
     "license": "MIT",
     "keywords": [
@@ -13,10 +13,10 @@
         "cjs/",
         "umd/"
     ],
-    "homepage": "https://github.com/SaltyAom/react-but-korean",
+    "homepage": "https://github.com/imnyang/react-but-korean",
     "repository": {
         "type": "git",
-        "url": "https://github.com/SaltyAom/react-but-korean.git"
+        "url": "https://github.com/imnyang/react-but-korean.git"
     },
     "engines": {
         "node": ">=0.10.0"
