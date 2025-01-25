@@ -50,7 +50,7 @@ import 응용프로그램 from './index.js'
 
 ### Demo
 
-[Repository](https://github.com/SaltyAom/react-but-korean-demo)
+[Repository](https://github.com/imnyang/react-but-korean-demo)
 [For working demo](https://rbk.imnya.ng)
 
 ## React API
